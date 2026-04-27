@@ -34,7 +34,10 @@ The project follows a standard data science lifecycle:
    git clone https://github.com/Sayantan615/Precision-Irrigation.git
    ```
 2. **Install dependencies:**
-   Ensure you have a Python environment set up with `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`, and `xgboost`.
+   You can install all required modules using the following command:
+   ```bash
+   pip install -r requirements.txt
+   ```
 3. **Run the Notebook:**
    Open `precision_irrigation.ipynb` in Jupyter Lab or Notebook to view the full analysis and model training process.
 
