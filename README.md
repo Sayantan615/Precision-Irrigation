@@ -44,4 +44,5 @@ The project follows a standard data science lifecycle:
 ## Repository Structure
 - `Datasets/`: Contains the training, validation, and blind test datasets.
 - `precision_irrigation.ipynb`: The main research and implementation notebook.
+- `requirements.txt`: List of Python dependencies.
 - `README.md`: Project documentation.
